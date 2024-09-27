@@ -9,7 +9,7 @@ public class Main {
         //new BertErnie().main();
         //new Circle().main();
         //new House().main();
-        new Giraffe().main();
+        //new Giraffe().main();
         //new LongJump().main();
     }
 }
