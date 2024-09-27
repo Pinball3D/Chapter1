@@ -30,7 +30,7 @@ public class Input
         floatTwo = keyboard.nextFloat();
         System.out.print("Enter an short : ");
         shortOne = keyboard.nextShort();
-        System.out.print("Enter an short : ");
+        System.out.print("Enter an short : "); //this prints the prompt for the second short
         shortTwo = keyboard.nextShort();
 
 
@@ -38,7 +38,7 @@ public class Input
         System.out.println();
         System.out.println("integer one = " + intOne );
         System.out.println("integer two = " + intTwo );
-        System.out.println();
+        System.out.println(); //this adds a space between the lines.
         System.out.println("double one = " + doubleOne );
         System.out.println("double two = " + doubleTwo );
         System.out.println();
